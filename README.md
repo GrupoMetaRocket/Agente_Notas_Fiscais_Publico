@@ -2,17 +2,17 @@
 
 Implementação de um agente para consultar e responder perguntas referentes à notas fiscais fornecidas.
 
-> ⚠️ Este repositório está **privado** por conter **chaves sensíveis**. Se dê a permissão para acessá-lo.
+> ⚠️ Este repositório **não possui** uma chave de acesso da API da **Perplexity**. É preciso fornecer uma no arquivo **config.yaml**.
 
 ## Clonar o repositório
 
 ```bash
-git clone https://github.com/GrupoMetaRocket/Agente_Notas_Fiscais.git
+git clone https://github.com/GrupoMetaRocket/Agente_Notas_Fiscais_Publico.git
 ```
 
 ## Configuração do ambiente
 
-Navegue até a pasta raiz do projeto (`Agente_Notas_Fiscais`) e execute os seguintes passos:
+Navegue até a pasta raiz do projeto (`Agente_Notas_Fiscais_Publico`) e execute os seguintes passos:
 
 ### 1. Criar ambiente virtual
 
